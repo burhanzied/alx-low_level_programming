@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
 * use of puts
+* and its use for the newline
 */
 int main(void)
 {
