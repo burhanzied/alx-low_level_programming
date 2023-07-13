@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
 * use of putis
-* main -Entry point
+* Main - Entry point
 * Return Always (success)
 */
-  int main(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
