@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
-* use of putis
 * Main - Entry point
+*
 * Return Always (success)
 */
 int main(void)
