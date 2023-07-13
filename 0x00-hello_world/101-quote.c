@@ -1,11 +1,10 @@
 #include<stdio.h>
 /**
  * main - entry point
- * Return: success
+ * Return: 1 success
  */
 int main(void)
 {
-	char ch[]= "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-	write(2, ch, sizeof(ch));
+	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",stdout);
 	return (1);
 }
